@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9109b600-d582-4724-882d-262e2b6e51c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VFeCS5Lv4TXuSUHwguCsBE6tyg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$JAVA_HOME$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.runClient">
+    <configuration name="runClient" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false">
+      <envs>
+        <env name="MOD_CLASSES" value="examplemod%%$PROJECT_DIR$/build/resources/main:examplemod%%$PROJECT_DIR$/build/classes/java/main" />
+        <env name="MCP_MAPPINGS" value="snapshot_20190719-1.14.3" />
+        <env name="MCP_VERSION" value="20191217.105819" />
+        <env name="FORGE_VERSION" value="30.0.14" />
+        <env name="assetIndex" value="1.15" />
+        <env name="assetDirectory" value="$USER_HOME$/.gradle/caches/forge_gradle/assets" />
+        <env name="nativesDirectory" value="$PROJECT_DIR$/build/natives" />
+        <env name="FORGE_GROUP" value="net.minecraftforge" />
+        <env name="target" value="fmluserdevclient" />
+        <env name="MC_VERSION" value="1.15.1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="net.minecraftforge.userdev.LaunchTesting" />
+      <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks=":prepareRunClient" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9109b600-d582-4724-882d-262e2b6e51c6" name="Default Changelist" comment="" />
+      <created>1576853190782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576853190782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576853249489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576853249489" />
+    <state x="700" y="424" width="509" height="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576860137289">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="700" y="424" width="509" height="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576860137289" />
+    <state x="621" y="180" width="668" height="753" key="#runClient" timestamp="1577034529701">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="621" y="180" width="668" height="753" key="#runClient/0.27.1920.1053@0.27.1920.1053" timestamp="1577034529701" />
+    <state x="629" y="189" width="682" height="736" key="#runServer" timestamp="1576863614676">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="629" y="189" width="682" height="736" key="#runServer/0.27.1920.1053@0.27.1920.1053" timestamp="1576863614676" />
+    <state x="912" y="214" width="486" height="521" key="FileChooserDialogImpl" timestamp="1576865572928">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="912" y="214" width="486" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1576865572928" />
+    <state width="1878" height="175" key="GridCell.Tab.0.bottom" timestamp="1577034538716">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="175" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538716" />
+    <state width="1878" height="175" key="GridCell.Tab.0.center" timestamp="1577034538715">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="175" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
+    <state width="1878" height="175" key="GridCell.Tab.0.left" timestamp="1577034538715">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="175" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
+    <state width="1878" height="175" key="GridCell.Tab.0.right" timestamp="1577034538715">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="175" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
+    <state x="521" y="111" width="1022" height="737" key="SettingsEditor" timestamp="1576865601466">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="521" y="111" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1576865601466" />
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577030819117">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577030819117" />
+    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577030888603">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1577030888603" />
+    <state x="411" y="117" width="1276" height="792" key="find.popup" timestamp="1577034352546">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="411" y="117" width="1276" height="792" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577034352546" />
+    <state x="706" y="429" width="722" height="311" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1576860074489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="706" y="429" width="722" height="311" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576860074489" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1576865667508">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1576865667508" />
+  </component>
+</project>
