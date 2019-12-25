@@ -1,9 +1,9 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "minecraft:iron_ore"
+    "item": "minecraft:end_stone"
   },
-  "result": "minecraft:iron_ingot",
+  "result": "enderiso:end_stone_shards",
   "experience": 0.7,
-  "cookingtime": 100
+  "cookingtime": 75
 }

@@ -9,6 +9,6 @@ public class EndStoneAlloy extends Item {
         super(new Properties()
                         .group(Enderiso.setup.itemGroup)
         );
-        setRegistryName("end_stone_shards");
+        setRegistryName("end_stone_alloy");
     }
 }

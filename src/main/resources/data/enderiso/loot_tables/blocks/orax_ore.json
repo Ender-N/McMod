@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "enderiso:orax_ore"
+          "name": "enderiso:orax_gem"
         }
       ],
       "conditions": [

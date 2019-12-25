@@ -4,13 +4,12 @@ import com.ender.enderiso.Enderiso;
 import net.minecraft.item.Item;
 import net.minecraft.item.Rarity;
 
-public class OraxGem extends Item {
+public class EndStoneShards extends Item {
 
-    public OraxGem() {
-        super(new Item.Properties()
+    public EndStoneShards() {
+        super(new Properties()
                         .group(Enderiso.setup.itemGroup)
-                        .rarity(Rarity.UNCOMMON)
         );
-        setRegistryName("orax_gem");
+        setRegistryName("end_stone_shards");
     }
 }

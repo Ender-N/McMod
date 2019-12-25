@@ -3,7 +3,12 @@ package com.ender.enderiso.setup;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.World;
 
-public class ClientPoxy implements IProxy {
+public class ClientProxy implements IProxy {
+
+    @Override
+    public void init() {
+
+    }
 
     @Override
     public World getClientWorld() {

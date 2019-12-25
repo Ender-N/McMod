@@ -1,25 +1,34 @@
 package com.ender.enderiso;
 
+import com.ender.enderiso.items.EndStoneAlloy;
+import com.ender.enderiso.items.EndStoneShards;
+import com.ender.enderiso.items.OraxGem;
+import com.ender.enderiso.items.tools.LazzerGun;
+import com.ender.enderiso.setup.ClientProxy;
+import com.ender.enderiso.setup.IProxy;
+import com.ender.enderiso.setup.ModSetup;
+import com.ender.enderiso.setup.ServerProxy;
+import com.ender.enderiso.blocks.ModBlocks;
+import com.ender.enderiso.blocks.OraxOre;
 import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
-import net.minecraftforge.common.MinecraftForge;
+import net.minecraft.item.BlockItem;
+import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.InterModComms;
+import net.minecraftforge.fml.DistExecutor;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.event.lifecycle.InterModEnqueueEvent;
-import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.stream.Collectors;
-
 @Mod("enderiso")
 public class Enderiso {
+
+    public static IProxy proxy = DistExecutor.runForDist(() -> () -> new ClientProxy(),() -> () -> new ServerProxy());
+
+    public static ModSetup setup = new ModSetup();
 
     private static final Logger LOGGER = LogManager.getLogger();
 
@@ -36,6 +45,8 @@ public class Enderiso {
     }
 
     private void setup(final FMLCommonSetupEvent event) {
+        setup.init();
+        proxy.init();
     }
 
     /*
@@ -69,9 +80,19 @@ public class Enderiso {
     @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
     public static class RegistryEvents {
         @SubscribeEvent
-        public static void onBlocksRegistry(final RegistryEvent.Register<Block> blockRegistryEvent) {
-            // register a new block here
-            LOGGER.info("HELLO from Register Block");
+        public static void onBlocksRegistry(final RegistryEvent.Register<Block> event) {
+            event.getRegistry().register(new OraxOre());
+        }
+
+        @SubscribeEvent
+        public static void onItemsRegistry(final RegistryEvent.Register<Item> event) {
+            Item.Properties properties = new Item.Properties()
+                    .group(setup.itemGroup);
+            event.getRegistry().register(new BlockItem(ModBlocks.ORAX_ORE, properties).setRegistryName("orax_ore"));
+            event.getRegistry().register(new OraxGem());
+            event.getRegistry().register(new EndStoneShards());
+            event.getRegistry().register(new EndStoneAlloy());
+            event.getRegistry().register(new LazzerGun());
         }
     }
 }

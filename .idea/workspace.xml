@@ -2,12 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9109b600-d582-4724-882d-262e2b6e51c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/McMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/runData.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/.attach_pid13779" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/.attach_pid20709" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/fml.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/forge-client.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-20-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-20-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-21-7.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-10.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-11.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-12.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-13.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-14.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-7.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-8.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2019-12-22-9.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/advancements/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/data/raids.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/level.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/poi/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/poi/r.0.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.-1.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.0.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.0.2.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.1.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.1.2.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.2.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.2.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/region/r.2.2.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/serverconfig/forge-server.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/session.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/emlo gay/stats/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/Enderiso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/blocks/ModBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/blocks/OraxOre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/items/EndStoneAlloy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/items/EndStoneShards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/items/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/items/OraxGem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/items/tools/LazzerGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/setup/ClientProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/setup/IProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/setup/ModSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ender/enderiso/setup/ServerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/blockstates/orax_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/block/orax_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item/end_stone_alloy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item/end_stone_shards.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item/lazzer_gun.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item/orax_gem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item/orax_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/block/orax_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/item/end_stone_alloy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/item/end_stone_shards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/item/orax_gem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/enderiso/loot_tables/blocks/orax_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/enderiso/recipes/end_stone_alloy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/enderiso/recipes/end_stone_shards_from_blasting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -26,6 +137,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,12 +157,26 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$JAVA_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/item" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/blocks" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ender.enderiso.items" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/enderiso/textures/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/data/enderiso/loot_tables" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/enderiso/models/items" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.runClient">
     <configuration name="runClient" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false">
@@ -102,10 +235,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="700" y="424" width="509" height="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576860137289" />
-    <state x="621" y="180" width="668" height="753" key="#runClient" timestamp="1577034529701">
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1577040088350">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="621" y="180" width="668" height="753" key="#runClient/0.27.1920.1053@0.27.1920.1053" timestamp="1577034529701" />
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1577040088350" />
+    <state x="621" y="180" width="668" height="753" key="#runClient" timestamp="1577280022875">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="621" y="180" width="668" height="753" key="#runClient/0.27.1920.1053@0.27.1920.1053" timestamp="1577280022875" />
     <state x="629" y="189" width="682" height="736" key="#runServer" timestamp="1576863614676">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -114,45 +251,45 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="912" y="214" width="486" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1576865572928" />
-    <state width="1878" height="175" key="GridCell.Tab.0.bottom" timestamp="1577034538716">
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom" timestamp="1577280030572">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1878" height="175" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538716" />
-    <state width="1878" height="175" key="GridCell.Tab.0.center" timestamp="1577034538715">
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1577280030572" />
+    <state width="1878" height="202" key="GridCell.Tab.0.center" timestamp="1577280030572">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1878" height="175" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
-    <state width="1878" height="175" key="GridCell.Tab.0.left" timestamp="1577034538715">
+    <state width="1878" height="202" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1577280030572" />
+    <state width="1878" height="202" key="GridCell.Tab.0.left" timestamp="1577280030571">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1878" height="175" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
-    <state width="1878" height="175" key="GridCell.Tab.0.right" timestamp="1577034538715">
+    <state width="1878" height="202" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1577280030571" />
+    <state width="1878" height="202" key="GridCell.Tab.0.right" timestamp="1577280030572">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1878" height="175" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1577034538715" />
+    <state width="1878" height="202" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1577280030572" />
     <state x="521" y="111" width="1022" height="737" key="SettingsEditor" timestamp="1576865601466">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="521" y="111" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1576865601466" />
-    <state x="620" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577030819117">
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577047403559">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="620" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577030819117" />
-    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577030888603">
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577047403559" />
+    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577272175145">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1577030888603" />
-    <state x="411" y="117" width="1276" height="792" key="find.popup" timestamp="1577034352546">
+    <state x="742" y="245" width="424" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1577272175145" />
+    <state x="411" y="117" width="1276" height="792" key="find.popup" timestamp="1577272751111">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="411" y="117" width="1276" height="792" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577034352546" />
+    <state x="411" y="117" width="1276" height="792" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577272751111" />
     <state x="706" y="429" width="722" height="311" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1576860074489">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="706" y="429" width="722" height="311" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576860074489" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1576865667508">
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1577268539083">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1576865667508" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577268539083" />
   </component>
 </project>

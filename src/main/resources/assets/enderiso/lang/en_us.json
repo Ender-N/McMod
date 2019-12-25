@@ -1,2 +1,10 @@
 {
+  "block.enderiso.orax_ore": "Orax Ore",
+  "item.enderiso.orax_gem": "Orax Gem",
+  "item.enderiso.end_stone_shards": "End Stone Shards",
+  "item.enderiso.end_stone_alloy": "End Stone Alloy",
+  "item.enderiso.lazzer_gun": "Lazzer Gun",
+
+  "_comment":"C Tabs",
+  "itemGroup.enderiso": "Enderiso"
 }

@@ -1,25 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "AAA",
-    "BEB",
-    "CCC"
+    "CBC",
+    "BAB",
+    "CBC"
   ],
   "key": {
     "A": {
-      "item": "minecraft:milk_bucket"
+      "item": "minecraft:diamond"
     },
     "B": {
-      "item": "minecraft:sugar"
+      "item": "enderiso:end_stone_shards"
     },
     "C": {
-      "item": "minecraft:wheat"
-    },
-    "E": {
-      "item": "minecraft:egg"
+      "item": "minecraft:iron_ingot"
     }
   },
   "result": {
-    "item": "minecraft:cake"
+    "item": "enderiso:end_stone_alloy"
   }
 }
